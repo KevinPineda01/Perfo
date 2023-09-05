@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Universidad Central del Ecuador - Ingeniería de Petróleos</title>
+</head>
+<body>
+    <h1 style="color: red;">Universidad Central del Ecuador</h1>
+    <h2 style="color: red;">Facultad de Ingeniería en Geología, Minas, Petróleo y Ambiental</h2>
+    <h3 style="color: blue;">Carrera de Ingeniería de Petróleos - Perforación</h3>
+
+    <h4>Autor: Pineda Espinosa Kevin Michael</h4>
+    <h4>Docente: Ing. Sergio Lira</h4>
+    <h4>Semestre: Sexto</h4>
+</head>
+<body>
+    <h1 style="color: #00FF00;">Petróleo</h1>
+    <p>Sustancia aceitosa constituida por una mezcla de hidrocarburos de forma natural, de color oscuro, es un recurso no renovable y se encuentra en determinadas formaciones.</p>
+    <h1>Ingeniería en Perforación</h1>
+    <p>Es una subdisciplina de la ingeniería en petróleos que se enfoca en el diseño y construcción de infraestructuras que comuniquen al yacimiento con la superficie, con el fin de extraer hidrocarburos de manera rentable.</p>
+<img src="https://1.bp.blogspot.com/-gwmKo_crIrs/X2yVw09UFbI/AAAAAAAADzo/gWbFNxsrsyAymAK73AgsBuLI1_Uhzdp9ACLcBGAsYHQ/s973/Perforaci%25C3%25B3n%2BDireccional.webp" height="275px" width="400">
+
+    <h2>Objetivos de la Ingeniería en Perforación</h2>
+    <h3>Objetivos Primarios</h3>
+    <ul>
+        <li>Conocer y verificar la litología del subsuelo de forma invasiva</li>
+        <li>Verificar la existencia de hidrocarburos</li>
+        <li>Extraer los hidrocarburos</li>
+        <li>Disminuir la incertidumbre</li>
+    </ul>
+
+    <h3>Objetivos Secundarios</h3>
+    <ul>
+        <li>Proyectos de inyección</li>
+        <li>Aumentar la producción</li>
+        <li>Incrementar el factor de recobro</li>
+        <li>Mejorar el barrido en los pozos</li>
+    </ul>
+</head>
+<body>
+    <h1>Métodos de perforación</h1>
+    <p>Aunque la perforación actual está altamente sofisticada con las nuevas tecnologías, cabe destacar que la perforación de pozos se ha practicado desde la antigüedad.</p>
+    <p>Algunos de los métodos utilizados para perforar en la antigüedad son:</p>
+    <ul>
+        <li>Método de percusión: Consiste en levantar una barra y dejarla caer de modo que perfore, se usa para realizar pruebas de formación y evaluar la calidad de los yacimientos de hidrocarburos.</li>
+        <li>Método rotativo: En este método, se utiliza una herramienta llamada "barrena" que gira a alta velocidad y se utiliza para perforar la roca. A medida que la barrena gira, los cortadores de la barrena cortan y trituran la roca, creando un agujero que se conoce como pozo.</li>
+    </ul>
+
+    <h2>Factores que desencadenan el uso de nuevas tecnologías en la industria petrolera</h2>
+    <ul>
+        <li>Complejidad de los yacimientos</li>
+        <li>Factores económicos - rentabilidad</li>
+        <li>Disponibilidad de nuevas tecnologías</li>
+    </ul>
+
+    <h2>Captura de valor</h2>
+    <p>La industria petrolera con el pasar de los años ha estado sometida a diferentes cambios en las distintas áreas creando así estrategias prácticas, una de ellas es la captura de valor. Esta se refiere a la capacidad de una empresa para crear, capturar y retener valor económico generado en una cadena de suministro. Para capturar valor, una empresa debe ofrecer productos o servicios que sean únicos y valiosos para los clientes. Esto puede lograrse a través de la diferenciación del producto, la calidad, la marca, la innovación, el servicio al cliente o la eficiencia.</p>
+
+<h1 style="color: blue;">Pozo</h1>
+    <p>Es una infraestructura que comunica yacimiento - superficie por medio de una perforación.</p>
+<img src="https://blog.structuralia.com/hubfs/Formato%20Header%20Blog%201050x550-2%20%282%29.png" height="280px" width="400">
+
+    <h2>Vida de pozo</h2>
+    <p>La vida útil de un pozo petrolero se refiere al período de tiempo durante el cual se extrae petróleo o gas de un pozo en particular de manera rentable. La vida de un pozo petrolero puede variar considerablemente y depende de varios factores, como la cantidad de petróleo o gas presente en el yacimiento, la eficiencia de extracción, la tecnología utilizada, los costos de producción y el precio del petróleo en el mercado.</p>
+    <p>Cuando la producción primaria se vuelve insuficiente, se pueden utilizar técnicas de recuperación secundaria o mejorada para aumentar la extracción de petróleo. Estas técnicas incluyen la inyección de agua, gas o productos químicos en el yacimiento para mantener la presión y desplazar el petróleo hacia los pozos de extracción.</p>
+
+    <h2>Vida de un yacimiento</h2>
+    <p>La vida útil de un yacimiento depende de varios factores y puede variar mucho según el tipo de yacimiento, la cantidad de recursos disponibles y la tasa de extracción. En general, la vida útil de un yacimiento se refiere al período de tiempo durante el cual se espera que el yacimiento sea económicamente rentable y se puedan extraer de manera sostenible.</p>
+    <p>Algunos de los factores que pueden influir en la vida útil de un yacimiento petrolero son los siguientes:</p>
+    <ul>
+        <li>Tamaño del yacimiento: La cantidad total de petróleo presente en el yacimiento es un factor clave en la determinación de su vida útil. Los yacimientos más grandes tienden a tener una vida útil más larga, ya que hay más petróleo para extraer.</li>
+        <li>Tasa de producción: La velocidad a la que se extrae el petróleo del yacimiento puede afectar su vida útil. Si se extrae a una tasa alta, la vida útil del yacimiento puede ser más corta.</li>
+        <li>Recuperación secundaria y terciaria: Después de la extracción primaria de petróleo, se pueden utilizar técnicas de recuperación secundaria y terciaria para extraer petróleo adicional. Estas técnicas, como la inyección de agua o productos químicos, pueden aumentar la producción y extender la vida útil del yacimiento.</li>
+    </ul>
+</body>
+<h1>Pozos</h1>
+    <ol>
+        <li>Pozo Geotérmicos: Los pozos geotérmicos han sido creados para aprovechar la energía geotérmica natural, desde impulsar turbinas y equipos que requieren alta generación de energía, hasta bombas de calor que permiten la obtención de calefacción.</li>
+        <li>Pozo de Agua: Un pozo de agua es una tecnología de captación en la tierra para recoger agua de acuíferos o mantos de aguas subterráneas por bombeo.</li>
+        <li>Pozo Hidrocarburos: alude a cualquier perforación del suelo diseñada con el objetivo de hallar y extraer fluido combustible, ya sea petróleo o hidrocarburos gaseosos.</li>
+    </ol>
+
+    <h2>Clasificación de pozos</h2>
+    <h3>I. Según su función</h3>
+    <ul>
+        <li>Exploratorio: es aquel que primero se perfora, y corresponde a la fase inicial de un proyecto de exploración petrolera. El objetivo de estos pozos es confirmar la presencia de hidrocarburos en el suelo.</li>
+        <li>Avanzada: Es el que se perfora cerca de otro ya productor para determinar los límites del yacimiento.</li>
+        <li>Desarrollo: Un pozo de desarrollo tiene como objetivo la explotación de un yacimiento ya conocido.</li>
+        <li>Relleno: Un pozo de relleno es aquel que se perfora después de la fase inicial de desarrollo y producción de un yacimiento de gas o aceite.</li>
+        <li>Reconocimiento: Son excavaciones de profundidad pequeña a media, realizadas normalmente con pala retroexcavadora. Permiten la inspección directa del suelo que se desea estudiar.</li>
+    </ul>
+
+    <h3>II. Según ubicación del pozo</h3>
+    <ul>
+        <li>Terrestre: Posición o localización de un punto, lugar o entidad en la superficie de la Tierra.</li>
+        <li>Lacustre: Relativo a un ambiente de depositación en lagos, o a un área con lagos, en ambientes lacustres pueden formarse rocas generadoras ricas en contenido orgánico.</li>
+        <li>Marino: Posición o localización de un punto, lugar o entidad en los océanos, mares o cuerpos de agua.</li>
+    </ul>
+
+    <h3>III. Según su geometría</h3>
+    <h4>Pozos Convencionales</h4>
+    <ul>
+        <li>Pozo Vertical: Un pozo vertical es una técnica para acceder a un yacimiento subterráneo de petróleo o gas natural que consiste en perforar verticalmente en el suelo. La perforación de pozos verticales es un método tradicional de extracción de petróleo, en comparación con su equivalente más moderno, la perforación direccional.</li>
+    </ul>
+
+    <h4>Pozos no convencionales</h4>
+    <ul>
+        <li>Pozo Direccional: Un pozo que requiere el uso de herramientas o técnicas especiales para asegurar que su trayectoria contacte un objetivo determinado en el subsuelo, ubicado generalmente lejos (en contraposición a "directamente debajo") de la localización del pozo en la superficie.</li>
+        <ul>
+            <li>Tipo I: El perfil B&amp;H (build and hold) se perfora con un ángulo constante una vez establecido la sección tangencial a partir del punto de comienzo de la desviación. Los pozos de incremento angular requieren un grado mínimo de perforación y de control direccional.</li>
+            <li>Tipo II: POZO TIPO S (S-TYPE WELL) Este tipo de pozo se perfora para mejorar la eficiencia del pozo y ayudar en la ubicación de un pozo explotado. En la perforación offshore, los pozos de tipo S pueden asegurar una mayor precisión en la posición del fondo del pozo cuando se perforan pozos múltiples desde la misma plataforma.</li>
+            <li>Tipo II: POZOS INCLINADOS TIPO J (SLANT WELL OR JTYPE) Los pozos de tipo J, tienen un trazado con una sección recta, una sección de desvío y una sección de tangente recta al objetivo. Los pozos oblicuos o de tipo J se perforan cuando no es deseable o no es posible ubicar la plataforma de perforación en superficie directamente sobre el objetivo o bien se pretende usar una plataforma de múltiples pozos.</li>
+        </ul>
+        <li>Pozo de alcance extendido: Un pozo de alcance extendido (ERD por sus siglas en inglés de Extended Reach Drilling) se define como aquel que posee una relación desviación horizontal-profundidad vertical verdadera (MD/TVD) de más de 2,0.</li>
+        <li>Pozo multilaterales: Un pozo multilateral se define como la construcción de uno ó más pozos laterales partiendo de un tronco común o pozo principal.</li>
+        <ul>
+            <li>Sidetrack: La desviación larga o sidetrack es un tipo de reacondicionamientos que consiste en abandonar el hueco original del pozo y perforar uno nuevo desviado a través de una ventana superficial en el revestidor.</li>
+<img src="https://i.pinimg.com/564x/60/f9/e6/60f9e6b999118d362d6ff34bb1d9d9d0.jpg" height="280px" width="400">
+            <li>Re-entry: Fue originalmente una técnica de la perforación direccional, son pozos que se perforan a partir de pozos existentes, los cuales se encuentran cerrados, temporalmente suspendidos o abandonados.</li>
+<img src="https://i.pinimg.com/564x/61/e6/6d/61e66d60f6d35d2498e6fda320cb0536.jpg" height="280px" width="400">
+        </ul>
+    </ul>
+</body>
+<head>
+    <title>Perforación Direccional</title>
+</head>
+
+<body>
+    <h1 style="color: #2E8B57;">Perforación Direccional</h1>
+    <p>La perforación direccional es una técnica que permite que la broca se dirija hacia una coordenada especificada. Se puede usar para retomar el rumbo si la perforación se desvía de la ruta deseada.</p>
+
+    <h2>Términos Direccionales</h2>
+    <ul>
+        <li>KOP: Punto de comienzo de la desviación.</li>
+        <li>EOB: Fin de construcción (End of build-up).</li>
+        <li>SOD: Comienzo de caída.</li>
+        <li>EOD: Fin de caída.</li>
+    </ul>
+
+    <h2>Factores que nos motivan a tener una perforación direccional</h2>
+    <ul>
+        <li>Infraestructura en superficie.</li>
+        <li>Relieve.</li>
+        <li>Temas ambientales.</li>
+    </ul>
+
+    <h2>PAD</h2>
+    <p>La zona explotada a partir de una locación se denomina pad, y tiene una forma típicamente rectangular. Dependiendo de la cantidad de perforaciones verticales, del largo de las perforaciones horizontales y de la cantidad y características de las zonas de fractura.</p>
+
+    <h2>Términos Direccionales</h2>
+    <ul>
+        <li>Profundidad Medida (MD): Primer valor de profundidad en el campo se obtiene midiendo las tuberías que ingresan al pozo.</li>
+        <li>Profundidad Vertical Verdadera (TVD): Desplazamiento neto vertical.</li>
+        <li>Distancia Horizontal (TD) (DH): Desplazamiento neto horizontal.</li>
+        <li>Objetivo (Target): Punto de llegada.</li>
+        <li>Inclinación: Ángulo medido entre la línea vertical y la línea del pozo en un determinado punto.</li>
+        <li>Dirección: Ángulo medido entre el norte y la posición del pozo en un punto dado desde un punto referencial local "origen" (taladro).</li>
+<img src="https://i.pinimg.com/564x/ca/78/bc/ca78bc96c5315a10704d652575c36884.jpg" height="300px" width="400">
+        <li>Survey: Paquete de coordenadas en un pozo (MD, INCLINACION, DIRECCION).</li>
+        <li>Estación De Survey: Puntos donde recogemos los datos.</li>
+<img src="https://i.pinimg.com/564x/2f/f4/d6/2ff4d647d86f2cb37845531815440ecb.jpg" height="300px" width="400">
+    </ul>
+</body>
+<head>
+    <title style="color: green;">Coordenadas</title>
+</head>
+
+<body>
+    <h1 style="color: #000080;">Coordenadas</h1>
+    <p>Valores que indican una posición en el espacio o plano respecto a un punto de referencia.</p>
+
+    <h2>Sistema de Coordenadas</h2>
+    <p>Los puntos se representan mediante un par ordenado de números (x, y), donde x indica la posición del punto a lo largo del eje “x” y “y” indica la posición del punto a lo largo del eje y.</p>
+    <ul>
+        <li>Si el pozo es vertical, TVD y MD son iguales.</li>
+        <li>Si el pozo es horizontal, TD y MD son iguales, y TVD = 0.</li>
+    </ul>
+
+    <h2>Coordenadas Locales en el Diseño de Pozos</h2>
+    <p>Los diseños de pozos se hacen en coordenadas locales donde (0,0) es el taladro.</p>
+    <p>El diseño de pozos en coordenadas locales implica utilizar un sistema de coordenadas específico para describir la ubicación y la trayectoria del pozo.</p>
+    <p>El objetivo principal del uso de coordenadas locales en el diseño de pozos es facilitar el seguimiento y la planificación del recorrido del pozo en relación con las características geológicas o estructurales específicas de un área determinada.</p>
+
+ <h1 style="color: red;">Sistema de referencia</h1>
+    <p>Es un conjunto de coordenadas espacio-tiempo que se requiere para poder determinar la posición de un punto en el espacio. Un sistema de referencia puede estar situado en el ojo de un observador. El ojo puede estar parado o en movimiento.</p>
+
+    <h2>Coordenadas cartesianas</h2>
+    <p>También conocidas como coordenadas rectangulares, son el sistema de coordenadas más comúnmente utilizado. En este sistema, un punto se localiza mediante dos valores numéricos: la coordenada “x” y la coordenada “y”.</p>
+
+    <h2>Coordenadas polares</h2>
+    <p>Se basan en la distancia desde un punto de referencia y el ángulo formado por un vector que une el punto de referencia y el punto en cuestión.</p>
+
+    <h2>Coordenadas geográficas</h2>
+    <p>Se constituyen por dos valores numéricos: la latitud y la longitud. Estas coordenadas se utilizan para describir la ubicación de un punto en la superficie de la Tierra.</p>
+<img src="https://i.pinimg.com/564x/33/a8/8e/33a88eef745448aacb87c53428cf5521.jpg" height="280px" width="400">
+
+    <h2>Coordenadas UTM (Universal Transverse Mercator)</h2>
+    <p>Son un sistema de coordenadas utilizado para representar la ubicación de puntos en la superficie de la Tierra. A diferencia de las coordenadas geográficas, que utilizan latitud y longitud, las coordenadas UTM se basan en un sistema de proyección cartográfica conocido como Proyección Transversa de Mercator.</p>
+
+    <h2>Proyección</h2>
+    <p>Una proyección cartográfica o proyección geográfica sirve para transformar, de forma sistemática, el modelo esférico de la Tierra en una imagen plana, pues permite establecer una relación entre los puntos de la superficie de la Tierra y los de un plano: la superficie del mapa.</p>
+    <h3>Tipos de proyecciones</h3>
+    <ul>
+        <li>Proyección cilíndrica: Se sitúa un cilindro imaginario alrededor del globo.</li>
+<img src="https://i.pinimg.com/564x/5c/6f/36/5c6f360997cfc0a4d86e640c44cff730.jpg" height="250px" width="320">
+        <li>Proyección cónica: La proyección cónica se obtiene proyectando los elementos de la superficie esférica terrestre sobre una superficie cónica tangente.</li>
+<img src="https://i.pinimg.com/564x/61/a0/40/61a04069b9a727a8796d0dc1bf2eba11.jpg" height="250px" width="320">
+        <li>Proyección acimutal: Los meridianos se representan mediante un sistema de líneas rectas concurrentes pero inclinadas entre sí.</li>
+    </ul>
+<img src="https://i.pinimg.com/564x/6c/35/f7/6c35f765d0936f04ea001bd856ff3270.jpg" height="250px" width="320">
+
+    <h2>Norte magnético</h2>
+    <p>El Norte magnético es el Norte que nos indica la brújula. La ubicación de este punto no está en un lugar estable, sino que cambia diariamente y de manera predecible unos cientos de metros.</p>
+<img src="https://i.pinimg.com/564x/9f/9a/45/9f9a4502c39b38c1ce1cabd4a45ef271.jpg" height="250px" width="320">
+
+    <h2>Norte de grilla</h2>
+    <p>Es la corrección que se hace para representar en Geoide a un plano. Se refiere a la dirección de referencia utilizada para medir y describir la trayectoria del pozo. En términos generales, la grilla se refiere a un sistema de coordenadas tridimensionales utilizadas para ubicar y orientar el pozo en relación con su entorno geográfico.</p>
+
+<h1 style="color: SkyBlue;">Base de datos</h1>
+    <p>Una base de datos es una herramienta o metodología que nos permite recopilar y organizar información.</p>
+    <p><strong>Dato:</strong> Valor asignado a algo.</p>
+    <p><strong>Entidad:</strong> Objeto real o abstracto con características que permiten diferenciar.</p>
+    <p><strong>Atributo:</strong> Propiedades particulares de los tipos de entidades.</p>
+
+    <h2>Recursos y estrategias</h2>
+    <ul>
+        <li>Contenido tradicional: Teoría base de una materia.</li>
+        <li>Iconografía, colorimetría: estrategias avanzadas.</li>
+        <li>Requerimientos actuales y futuros.</li>
+    </ul>
+
+<h1 style="color: violet;">Perforación y la industria petrolera</h1>
+    <p><strong>Perforación:</strong> Consiste en hacer un agujero a partir de los movimientos rotatorios.</p>
+    <p><strong>Yacimiento:</strong> Es un cuerpo de roca del subsuelo que exhibe un grado de suficiencia de porosidad y permeabilidad para almacenar y transmitir fluidos. Esta es una zona que alberga un fluido de interés.</p>
+<img src="https://acp.com.co/web2017/images/fracking/corte-yacimientos-no-convencionales.png" height="300px" width="400">
+    <ul>
+        <li><strong>Yacimiento Convencional:</strong> El hidrocarburo se almacena en rocas porosas y permeables.</li>
+        <li><strong>Yacimiento no Convencional:</strong> El hidrocarburo se encuentra en lutitas o rocas madres altamente porosas y no permeables.</li>
+    </ul>
+    
+    <h2>Perforación y su contribución con la cadena de valor</h2>
+    <p>La cadena de valor es un modelo que permite descubrir el desarrollo de las actividades de una organización empresarial generando valor al producto final.</p>
+
+    <h2>Revoluciones industriales y la perforación</h2>
+    <ol>
+        <li>Máquinas de vapor: Perforación a percusión.</li>
+        <li>Electricidad y estabilidad: Perforación rotatoria y percusión.</li>
+        <li>Computadora y automatización.</li>
+        <li>Inteligencia artificial: Automatización de la perforación.</li>
+    </ol>
+
+<h1 style="color: #20B2AA;">Procesos de perforación</h1>
+    <h2>Etapas del proceso de perforación</h2>
+    <ol>
+        <li>Seleccionar el área de perforación:
+            Antes de perforar un pozo se debe establecer el sitio el cual involucra factores que determinen una ubicación óptima para la perforación.</li>
+        <li>Análisis y características del subsuelo:
+            Se trata del comportamiento del pozo, prevención y evitar la presencia de riesgos. Dentro de los análisis encontramos:
+            <ul>
+                <li>Modelo estructural</li>
+                <li>Modelo estratigráfico</li>
+                <li>Modelo sedimentológico</li>
+                <li>Modelo petrofísico</li>
+            </ul>
+        </li>
+        <li>Diseño de pozo:
+            Geometría del pozo, puntos de asentamiento preseleccionados y jerarquizados en base al comportamiento del yacimiento - pozo.</li>
+        <li>Selección de Equipos:
+            - Territorio donde se va a operar (agua - tierra)
+            - Rango de profundidad y tamaño de pozos
+            - Carga esperada de los revestidores
+            - Rango de velocidades de rotación y torque requerido
+            - El peso y tamaño de los componentes de la sarta de perforación
+            - Sistema de circulación, tanques, y equipo de control de sólidos
+            - Servicios auxiliares y la potencia requerida
+            - Altura de la subestructura - espacio libre bajo ella
+            - Arreglo de preventores - capaz de cerrar un pozo descontrolado
+            - Controles
+        </li>
+        <li>Operaciones de perforación:
+            Desde que se empieza hasta que se termina de perforar, perforación conlleva todo cementación, desarme de la torre</li>
+        <li>Análisis post mortem:
+            Consiste en un proceso de revisión de planificación y ejecución de un pozo específico, con un enfoque integrador de varias disciplinas.</li>
+    </ol>
+
+    <h2>Ventana Operacional</h2>
+    <p>La ventana operativa es un conjunto de parámetros dentro de los cuales la operación de perforación puede mantenerse de forma confiable y segura. Esta gráfica me permite ver dónde puedo perforar y no hacer fracturas.</p>
+<img src="https://i.pinimg.com/564x/db/74/4e/db744e6042a7bbfa74701f384128e469.jpg" height="400px" width="600">
+
+    <ul>
+        <li>Curva de gradiente de formación</li>
+        <li>Gradiente de la fractura</li>
+    </ul>
+
+    <h2>Presión y sobrecarga</h2>
+    <p>Es el esfuerzo que ejerce el peso total de los materiales que son la matriz de la roca y fluidos contenidos en el espacio poroso sobre las formaciones subyacentes.</p>
+
+    <h2>Presión de pozo</h2>
+    <p>Es la presión interna a la cual se encuentran confinados los fluidos dentro del espacio poroso de la formación y es la fuente de energía que hace a estos fluir hacia el exterior de dicha formación.</p>
+    <p>Estos se encuentran dentro de estos rangos:</p>
+    <ul>
+        <li>Presión anormal &gt; 0.465 psi/ft</li>
+        <li>Presión normal = 0.465 psi/ft</li>
+        <li>Presión subnormal &lt; 0.465 psi/ft</li>
+    </ul>
+
+    <h2>Presión de fractura</h2>
+    <p>Es la cual la roca de una formación dada comienza a fracturarse esto sucede después de haber vencido la resistencia a la compresión de la roca y la presión de la formación.</p>
+
+    <h2>Margen de fluencia y succión</h2>
+    <p>Es el margen de control sobre la presión de poro y bajo la presión de fractura.</p>
+    <p>En la tubería:</p>
+    <ul>
+        <li>Hacia abajo se denomina suaveo</li>
+        <li>Hacia arriba se denomina succión</li>
+    </ul>
+</body>
+
+<h1 style="color: fuchsia;">Revestidores</h1>
+  <p>Son tuberías especiales que se introducen en el hoyo perforado y que luego son cementadas para lograr la protección del hoyo y posterior permitir el flujo de fluidos desde yacimiento hasta superficie.</p>
+<img src="https://i.pinimg.com/564x/91/8b/ac/918bacbb6417266f55c84c61abfbfca9.jpg" height="400px" width="600">
+  <h2>Funciones</h2>
+  <ul>
+    <li>Evitar derrumbes en el pozo durante la perforación</li>
+    <li>Evitar contaminación de aguas superficiales</li>
+    <li>Suministrar un control de presiones de formaciones</li>
+    <li>Prevenir contaminación de zonas productoras con fluidos extraños</li>
+    <li>Facilitar la instalación del equipo de superficie y producción</li>
+  </ul>
+
+  <h2>Clasificación de revestidores</h2>
+  <ol>
+    <li>Conductor</li>
+    <li>Superficial</li>
+    <li>Intermedio</li>
+    <li>Producción</li>
+  </ol>
+
+  <h3>Revestidor Liner</h3>
+  <p>Un liner será suspendido, colgado a corta distancia por encima de la zapata del revestidor anterior y será cementado a lo largo de toda su longitud para asegurar un buen sellado al aislar el espacio anular.</p>
+
+  <h2>Diferencias entre Liner y Revestidor</h2>
+  <h3>Liner</h3>
+  <ul>
+    <li>No va hasta la superficie</li>
+    <li>Menor costo, pero más riesgoso</li>
+    <li>Requiere equipos y herramientas especiales para su utilización</li>
+  </ul>
+
+  <h3>Revestidor</h3>
+  <ul>
+    <li>Va hasta la superficie</li>
+    <li>Mayor costo, pero menos riesgos</li>
+    <li>No requiere uso de equipos y herramientas especiales</li>
+  </ul>
+<h1 style="color: #FFD700;">Talado de Perforación</h1>
+  <p>Conjunto de equipos y herramientas que se utiliza para perforar y realizar una conexión yacimiento - superficie.</p>
+
+  <h2>Componentes</h2>
+  <ul>
+    <li>Sistema rotatorio</li>
+    <li>Sistema de levantamiento</li>
+    <li>Sistema de circulación</li>
+    <li>Sistema de potencia</li>
+    <li>Sistema de seguridad</li>
+  </ul>
+
+  <h2 style="color: #FFC0CB>Sistema de Rotación</h2>
+  <p>Es aquel que se encarga de hacer rotar a la broca, a través de todos sus equipos. Se podría definir como todos los equipos que hacen posible abrir el hoyo.</p>
+
+  <h3>Ensamblaje Rotatorio</h3>
+  <ul>
+    <li>Mesa rotatoria: Conjunto de equipos que genera un movimiento.</li>
+    <li>Top Drive: El Top Drive consta de un motor eléctrico o hidráulico montado en la plataforma de perforación, que impulsa directamente la rotación de la tubería de perforación.</li>
+    <li>Soporte giratorio: Caja en forma rectangular de acero cuya función es permitir la rotación de la tubería de perforación mientras se avanza en la perforación del pozo.</li>
+    <li>Buje maestro: Dispositivo colocado en la mesa rotaria y sirve para acoplar al mismo, de tal manera que el impulso de rotación o torsión de la mesa pueda ser transmitido al cuadrante y hacer girar a la sarta de perforación.</li>
+    <li>Cuñas: Dispositivo que se inserta entre la tubería de perforación y las paredes del pozo para disminuir el diámetro que sostiene la tubería.</li>
+  </ul>
+
+  <h3>Drill Collar o Lastra Barrena</h3>
+  <ul>
+    <li>Son tubos de acero, de mayor peso y mayor espesor que la tubería de perforación.</li>
+    <li>Proporcionan el peso necesario para perforar.</li>
+    <li>A medida que se perfora a mayor profundidad, se necesita más fuerza de empuje.</li>
+  </ul>
+
+<title>Sistema de Levantamiento y Elementos de Corte</title>
+</head>
+<body>
+  <h1 style="color: #FFC0CB;">Sistema de Levantamiento</h1>
+  <p>El sistema de levantamiento es una parte importante del conjunto de equipos y herramientas utilizados en la perforación para elevar la tubería y otros componentes en el pozo.</p>
+
+  <h1>Sistema de Rotación</h1>
+  <p>El sistema de rotación es aquel que se encarga de hacer rotar a la broca y abrir el hoyo en la perforación del pozo.</p>
+
+  <h2>Estabilizadores</h2>
+  <p>Los estabilizadores son pequeñas secciones de tuberías encargadas de mantener el diámetro correcto en las paredes del hueco, es decir, centran a la sarta del hoyo.</p>
+
+  <h2>Elementos de Corte - Broca Tricónica</h2>
+  <p>La broca tricónica tiene tres conos, y su principal función es cortar la formación rocosa.</p>
+  
+  <h3>Mecanismo de Corte - Trituración</h3>
+  <p>La trituración es el mecanismo de corte de la broca tricónica. Cuando se empieza a triturar la formación, se ejerce una carga perpendicular a la roca, lo cual da lugar a una serie de fracturas que se propagan radialmente desde el punto de contacto hacia el radio del hueco. El efecto de peso es lo que hace que ocurra la trituración.</p>
+  
+  <h3>Tipos de Broca Tricónica</h3>
+  <ul>
+    <li>Broca de diente fresado: Se usa en zonas blandas.</li>
+    <li>Broca tricónica de insertos: Se usa en zonas moderadamente duras. Los insertos laterales evitan que la broca se coma por los lados.</li>
+  </ul>
+
+  <h3>Conos de las Brocas</h3>
+  <ul>
+    <li>Cono 1: Su extremo es una puya.</li>
+    <li>Cono 2: Tiene forma de antorcha.</li>
+    <li>Cono 3: Tiene forma de cuchara.</li>
+  </ul>
+
+  <h3>Cizalla</h3>
+  <p>La cizalla es otro mecanismo de corte que fractura la roca a través de cortes o cizallas. La dirección de la carga y la fractura resultante son paralelas a medida que el cortador va penetrando en la formación. La punta de la cizalla es corta y remueve el material en forma de capas. El corte se da de forma transversal y el movimiento es relativo, lo que produce cortes paralelos a la superficie, también conocidos como cortes laterales o en forma de conchas.</p>
+
+  <h3>Broca PDC</h3>
+  <p>La broca PDC es una broca de insertos en la que los cortes son laterales a medida que giran y no cortan el diámetro a la vez. El mecanismo de corte de este tipo de barrenas es mediante fricción y arrastre. La forma del diamante en la broca PDC es redonda e irregular, lo que permite limar la formación. Esto saca la roca en micro pedazos, simulando el efecto de lijar.</p>
+
+<h1 style="color: yellow;">Sistema de Levantamiento</h1>
+  <p>El sistema de izaje provee el equipo y las áreas de trabajo para levantar, bajar o suspender el equipo usado en el sistema de rotación.</p>
+
+  <h2>Subsistemas</h2>
+  <h3>Elementos de Soporte</h3>
+  <ol>
+    <li>Subestructura: Estructura de acero que separa el nivel del suelo.</li>
+    <li>Piso de perforación: Se encuentra sobre el marco de la subestructura de operaciones de perforación, soporte del equipo y herramientas requeridas.</li>
+    <li>Torre de perforación: La torre de perforación proporciona soporte y estabilidad a los equipos y herramientas necesarios para perforar el pozo. Se encuentra entre 30 – 50 m de altura.</li>
+  </ol>
+
+  <h3>Elementos Dinámicos</h3>
+  <p>El sistema de elementos dinámicos está encargado de proporcionar la fuerza de transmisión necesaria para levantar cargas.</p>
+  <ul>
+    <li>Malacate: Es un conjunto de componentes de propulsión mecánica que proporciona la fuerza de transmisión para levantar cargas.</li>
+    <ul>
+      <li>Sistema de frenos</li>
+      <li>Sistema de transmisión</li>
+    </ul>
+    <li>Bloque corona: Sistema en la punta de la torre que incluye un conjunto de poleas.</li>
+    <li>Bloque viajero: Arreglo de poleas enlazado al bloque corona mediante cables.</li>
+    <li>Gancho: El gancho es vital, no solo soporta el peso de la tubería, sino que también se somete a un desgaste continuo.</li>
+    <li>Cable: Los cables de acero o líneas de perforación están constituidos generalmente por alambres de acero trenzado.</li>
+    <ul>
+      <li>Componentes del cable: alambre, torón, alma</li>
+      <li>El alma puede ser de una sola fibra o un torón completo, dependiendo de las condiciones de diseño. Cada cable tiene su propio diseño en torno al material utilizado para fabricarlo.</li>
+    </ul>
+  </ul>
+
+  <h1 style="color: #FFC0CB;">Sistema de Circulación</h1>
+  <p>El sistema de circulación es el primer sistema de seguridad en la perforación y tiene como objetivo enfriar, lubricar y mantener el fluido de perforación.</p>
+
+  <h2>Subsistema</h2>
+  <ul>
+    <li>Equipos y área de preparación</li>
+    <li>Equipos de circulación</li>
+    <li>Equipos de reacondicionamiento</li>
+    <li>Fluidos de perforación</li>
+  </ul>
+
+  <h3>Tipos de Fluidos de Perforación</h3>
+  <ul>
+    <li>Lodo en base aceite: Es más liviano y contiene un inhibidor automático.</li>
+    <li>Lodo base agua: Tiene una fase continua de agua.</li>
+    <li>Emulsión: Es una mezcla de sustancias que no se mezclan, como agua, aceite y aire.</li>
+  </ul>
+ <h1 style="color: #A52A2A;">Sistema de Potencia</h1>
+    <p>
+        El sistema de potencia suministra la energía mecánica y eléctrica para diversas operaciones, incluyendo perforación de pozos.
+    </p>
+
+    <h2>Seguridad</h2>
+    <p>
+        En caso de que el lodo no cumpla su función, puede ocurrir un influjo, lo que requiere cerrar el pozo para evitar problemas.
+    </p>
+
+    <h2>Herramientas adicionales en el sistema de Rotación</h2>
+    <h3>Estabilizadores</h3>
+    <p>
+        Los estabilizadores tienen funciones variables según la dinámica del pozo. Favorecen el cambio de ángulo y brindan rigidez al equipo.
+    </p>
+
+    <h3>MWD (Medición mientras se perfora)</h3>
+    <p>
+        El MWD permite realizar mediciones y capturas de datos mientras se perfora, incluyendo formaciones y herramientas utilizadas.
+    </p>
+    <ul>
+        <li>Monel: Material no magnético que permite separar el MWD de las perturbaciones magnéticas (30ft).</li>
+        <li>Pony monel: Versión más pequeña del monel (15ft).</li>
+    </ul>
+
+    <h3>GYRO</h3>
+    <p>
+        El GYRO toma datos de survey utilizando el principio giroscópico, pero es sensible a los movimientos y requiere pausar la perforación para obtener mediciones precisas.
+    </p>
+
+    <h3>GWD</h3>
+    <p>
+        El GWD combina características del GYRO y el MWD, utilizando el cuerpo del MWD y el principio giroscópico para mediciones.
+    </p>
+
+    <h3>LWD (Logging while drilling)</h3>
+    <p>
+        El LWD se utiliza para recolectar datos del survey y la litología del suelo durante la perforación.
+<img src="https://i.pinimg.com/564x/2c/4f/ed/2c4fedf30850bec333b9a1f5dc7b1660.jpg" height="200px" width="300">
+    </p>
+
+    <h2>Rigidez y herramientas</h2>
+    <p>
+        La rigidez de la sarta de perforación está relacionada con el BHA (Herramienta de fondo) utilizada.
+    </p>
+
+    <h2>Motores de Fondo</h2>
+    <p>
+        Los motores de fondo permiten girar la broca sin hacer girar toda la sarta, con un diseño de rotor y estador.
+    </p>
+    <ul>
+<img src="https://i.pinimg.com/564x/a9/a7/d8/a9a7d8e49dec23f969179d332ff2dc6f.jpg" height="200px" width="300">
+        <li>Rotor: Eje con el principio de enrollado.</li>
+        <li>Estador: Carcaza con ondulaciones en forma de tornillo y un orificio más que las aletas del rotor.</li>
+    </ul>
+
+    <h2>Convencional</h2>
+    <p>
+        La perforación convencional rota en la parte superior y siempre en la misma dirección.
+    </p>
+
+<title>Desviación Mecánica</title>
+</head>
+<body>
+    <h1 style="color: #FFA500;">Desviación Mecánica</h1>
+    <p>
+        La desviación mecánica se refiere a la desviación o desplazamiento en un principio físico durante procesos de perforación u otras operaciones.
+    </p>
+
+    <h2>Cucharas</h2>
+    <p> Las cucharas son herramientas que se utilizan para obligar a desviar la broca durante la perforación.</p>
+
+<img src="https://i.pinimg.com/564x/c5/c2/54/c5c25479dda7271132e7bccd4e15606e.jpg" height="250px" width="350">
+
+ </p>      
+  Dentro de las cucharas, encontramos dos componentes:
+   
+    <ul>
+        <li>Fijo</li>
+        <li>Autoposicional (recuperable)</li>
+    </ul>
+
+    <h2>Herramientas Verticales</h2>
+    <p>
+        Las herramientas verticales se utilizan cuando trabajamos con herramientas de fondo en ciertos procesos industriales.
+    </p>
+
+<h1 style="color: #20B2AA;">Problemas Operacionales</h1>
+</head>
+<body>
+    <p>Los problemas presentados a continuación son en la perforación:</p>
+    <ul>
+        <li>Reporte Diario</li>
+        <li>Reporte final</li>
+        <li>Plan</li>
+    </ul>
+    <h2>Líneas de Servicio</h2>
+    <ul>
+        <li>Profundidad</li>
+        <li>Litología</li>
+    </ul>
+    <h2>Brocas</h2>
+    <h2>Fluidos</h2>
+    <h2>BHA's</h2>
+
+<h1 style="color: #2E8B57;">Problemas Operacionales</h1>
+    <p>Evento que afecta las operaciones productivas:</p>
+    <ul>
+        <li>Convencionales</li>
+        <li>Direccionales</li>
+        <li>Problemas tecnológicos</li>
+    </ul>
+    <h2>Convencionales:</h2>
+    <p>Aquellos que se dan en cualquier tipo de pozo sin importar su geometría.</p>
+    <h2>Direccionales:</h2>
+    <p>Ocurren en pozos direccionales por el tipo de pozo.</p>
+    <h2>Problemas Tecnológicos o de 4RI:</h2>
+    <p>Ocurren en la frontera de la innovación. Se generan debido a la vulnerabilidad que tiene la tecnología.</p>
+
+    <h2>Tiempo de Latencia:</h2>
+    <p>Tiempo en que la información tarda en ir o venir.</p>
+
+    <h2>Litológica y Geológica (estas no se pueden cambiar):</h2>
+    <ol>
+        <li>Pérdidas de Circulación
+            <ul>
+                <li>Económica: ambiental</li>
+                <li>Operativa: nivel de pozo</li>
+            </ul>
+        </li>
+        <li>Fallas no Sellantes (fallas que tienen permeabilidad)</li>
+        <li>Domos Salinos
+            <ul>
+                <li>Corrosión</li>
+                <li>Formaciones dúctiles</li>
+                <li>Contaminar el lodo</li>
+            </ul>
+        </li>
+        <li>Formaciones no Consolidadas
+            <ul>
+                <li>Derrumbes</li>
+                <li>Washout</li>
+                <li>Altera las propiedades del lodo</li>
+            </ul>
+        </li>
+        <li>Formaciones Quebradizas y/o Fracturadas
+            <ul>
+                <li>Pérdidas de Circulación</li>
+                <li>Derrumbes (Pega mecánica vertical total)</li>
+            </ul>
+        </li>
+        <li>Formaciones Reactivas
+            <ul>
+                <li>Arcillas: altera el lodo, broca embolada y taponamiento de las líneas.</li>
+                <li>Sal</li>
+                <li>Yeso</li>
+            </ul>
+        </li>
+        <li>Formaciones Cavernosas o Muy Permeables</li>
+        
+<img src="https://i.pinimg.com/564x/49/a3/c0/49a3c08920058707f0f45c3305ced45f.jpg" height="350px" width="450">
+    </ol>
+
+    <h2>Tensión Interfacial</h2>
+    <p>Rigidez que hay entre dos grupos de moléculas que no se mezclan.</p>
+    <ul>
+        <li>Fuerzas Adhesivas: Estas fuerzas mantienen unidas las moléculas y hacen que la sustancia permanezca en estado líquido o sólido.</li>
+        <li>Fuerzas Cohesivas: Estas fuerzas son responsables de la adhesión entre dos superficies diferentes, como un líquido adherido a una superficie sólida.</li>
+<img src="https://i.pinimg.com/564x/b3/fc/4e/b3fc4e1b9d97fb3e01fbb95d1775af80.jpg" height="230px" width="400">
+    </ul>
+
+    <h2>Tensión Superficial</h2>
+    <p>Es una propiedad física que se refiere a la fuerza ejercida por las moléculas en la superficie de un líquido que tiende a disminuir su área superficial al mínimo posible.</p>
+<img src="https://i.pinimg.com/564x/b2/95/90/b2959014ffe6547b85debdb2af5886f0.jpg" height="300px" width="400">
+
+    <h2>Problema Dos Marias</h2>
+    <p>Este problema se produce cuando existe pérdida de circulación con presencia de influjo.</p>
+    <p>La solución para uno de estos problemas es la causa del otro, entonces la única forma de resolver este problema es mandar el fluido con cosas que sirvan para sellar las partes donde exista pérdida de presión y después mandar un fluido normal para mantener el pozo.</p>
+<img src="https://i.pinimg.com/564x/53/db/77/53db7724860454fc6c3cc68ba3b61624.jpg" height="300px" width="400">
+
+<h2 style="color: #00FF00;">Causas y Problemas</h2>
+<img src="https://i.pinimg.com/564x/9f/61/8f/9f618f1bef42e9c16014334f7623f276.jpg" height="300px" width="500">
+
+    <h2> Problemas Operacionales</h2>
+<img src="https://i.pinimg.com/564x/6a/ce/47/6ace470e9b883a1358afbe317a5fd70d.jpg" height="550px" width="880">
+
+    <h2> Derrumbes</h2>
+<img src="https://i.pinimg.com/564x/e5/6d/ab/e56dab584494e38be3b7ea46b654627f.jpg" height="400px" width="700">
+
+    <h2> Influjo</h2>
+<img src="https://i.pinimg.com/564x/bc/7e/c4/bc7ec4c012a86b9478fdab4839d3d2c4.jpg" height="400px" width="500">
+
+<title>Fracturas Inducidas y Desviación de Trayectoria</title>
+</head>
+<body>
+    <h1>Fracturas Inducidas</h1>
+    <p><strong>Perdida de circulación:</strong> Si se convierte en un influjo que desencadena a su vez un reventón.</p>
+
+    <h2>Desviación de Trayectoria</h2>
+    <ol>
+        <li>No llegar al target</li>
+        <li>Colisión</li>
+    </ol>
+
+    <h2>Causas</h2>
+    <ul>
+        <li>Cuando la broca no perfora en el centro: WOB y Capacidad de corte de la broca</li>
+        <li>Torque errático: Si se deja avanzar genera "tortuosidad"</li>
+<img src="https://i.pinimg.com/564x/4f/ab/fa/4fabfa5098f06de4114df5a7360ce405.jpg" height="400px" width="500">
+
+    </ul>
+
+    <h2>Pega Diferencial</h2>
+    <p>Ocurre cuando la sarta se pega de la pared del hoyo y es succionada por la formación y adherida al revestidor.</p>
+    <p>La causa de la pega diferencial es operativa.</p>
+<img src="https://i.pinimg.com/564x/72/06/2f/72062f43115dde2477a8614119a224a8.jpg" height="200px" width="300">
+
+    <h3>Condiciones:</h3>
+    <ul>
+        <li>∆P Alto</li>
+        <li>Formaciones permeables</li>
+        <li>Sección sarta de mayor diámetro</li>
+        <li>En el lado interno de la curva</li>
+        <li>Plastening: Fenómeno de adhesión de sólidos plásticos presentes en el lodo de la tubería (revestidor).</li>
+        <li>Broca embolada: Se genera dentro del revestidor.</li>
+        <li>Tortuosidad: Característica que representa lo tortuoso de una curva, es decir, el grado de vueltas o rodeos que tiene.</li>
+        <li>Ojo de llave: Sección del hoyo, ocurre en el lado interno.</li>
+        <li>Crossover: Herramienta que permite acoplar dos diámetros diferentes.</li>
+    </ul>
+
+    <h2>Arrastre y Torque</h2>
+    <p><strong>Arrastre:</strong> Restricción al movimiento de forma longitudinal.</p>
+    <p><strong>Torque:</strong> Restricción al movimiento de forma compresible.</p>
+
+    <h2>Overpull</h2>
+    <p>Es la cantidad de tensión que se requiere para sacar la tubería, es decir, la sumatoria entre el arrastre y el peso de la sarta en el hueco.</p>
+
+    <h2>Puntos de Apoyo</h2>
+    <p>Sirven de descanso, es una zona donde la tensión sube y la comprensión baja.</p>
+    <p><strong>Punto Apretado:</strong> El hoyo reduce su tamaño, esto puede pasar por hinchazón de la formación.</p>
+
+    <h2 style="color: #00FF00;">Variables Claves en Operación</h2>
+<img src="https://i.pinimg.com/564x/a9/4d/2a/a94d2af5577cb180a986eb14e920cf1b.jpg" height="200px" width="400">
+
+    <h2>Variables Centrales</h2>
+<img src="https://i.pinimg.com/564x/e8/07/f9/e807f9f38e9e71438117ff0d15d70fb1.jpg" height="100px" width="400">
+
+
+    <p><strong>KOP</strong> y <strong>BUR</strong> son variables de diseño.</p>
+
+    <h2>Strokes</h2>
+    <p><strong>Strokes:</strong> Desplazamiento completo que hacen los pistones.</p>
+
+    <h2>Galonaje (Volumen por Tiempo)</h2>
+    <p>Se mide en galones por minuto, a cuánto se mueven los pistones.</p>
+    <p><strong>Galonaje</strong> manipula <strong>Strokes</strong> (desplazamientos completos que hacen los pistones).</p>
+
+    <p><strong>V(lodo original) + V(desplazada)</strong></p>
+    <p><strong>Reemplazo ≠ Acarreo</strong></p>
+
+<img src="https://i.pinimg.com/564x/c4/cc/e1/c4cce1cf97a6b7fbf9e9611a5d069e54.jpg" height="500px" width="800">
+    <p>"En condiciones ideales, el volumen disminuido en los tanques debe ser igual al volumen perforado en el hoyo".</p>
+
+<h1>Planificación y Ejecución</h1>
+
+<h2>Objetivos económicos</h2>
+<ul>
+  <li>Minimizar tiempo (Análisis)</li>
+  <li>Minimizar longitud (Diseño)</li>
+</ul>
+
+<h2>Objetivos Operacionales</h2>
+<ul>
+  <li>Minimizar Riesgos
+    <ul>
+      <li>Evitar complicaciones estructurales</li>
+      <li>Evitar geometría apretada o cerrada</li>
+    </ul>
+  </li>
+</ul>
+<img src="https://i.pinimg.com/564x/1e/03/26/1e0326cca3e1017984280281db629dea.jpg" height="300px" width="400">
+
+<h2>Conceptos Clave</h2>
+<ul>
+  <li>Fraguado: Es cuando se endurece el cemento</li>
+  <li>Tiempo no productivo: Tiempo en el que no se está penetrando</li>
+  <li>Tiempo fuera del plano pueden ser tiempo plano (Si es plano se puede ver en el gráfico)</li>
+  <li>Tiempos invisibles (Tiempos adicionales que están escondidos en operaciones regulares)</li>
+</ul>
+
+<h2>Límite Técnico</h2>
+<p>Para encontrar tiempos se utiliza la tecnología llamada Límite Técnico. Compara los tiempos para una misma operación, analiza todos los pozos y llega a una conclusión.</p>
+
+<img src="https://i.pinimg.com/564x/4f/3b/da/4f3bdafd050da9faaf02fe5e0e77219e.jpg" height="300px" width="400">
+<ul>
+  <li>Condiciones aleatorias favorables</li>
+  <li>Mala praxis con buenos resultados</li>
+</ul>
+<p>A veces los menores tiempos en una perforación son producto de una condición aleatoria favorable. No siempre el límite técnico es igual a la suma de los dos menores tiempos.</p>
+
+<h2>BHA y sus configuraciones</h2>
+<p>Tipos de estabilizadores</p>
+<img src="https://i.pinimg.com/564x/8d/f7/3b/8df73b569cb5a8bc2fbe5545652393a0.jpg" height="300px" width="400">
+
+<h2>Métodos de cálculo de Surveys</h2>
+<ul>
+  <li>Términos de survey</li>
+  <li>Método de estimación</li>
+  <li>Diseño de pozos y sensibilidad de variables</li>
+  <li>Spider Plot</li>
+</ul>
+
+<h2>Modelos de estimación</h2>
+<p>Ángulo promedio: promedio de ángulos de inclinación y azimut entre dos estaciones (construye una cuerda entre dos puntos).</p>
+<p>Tangencial: utiliza la inclinación y azimut de la última estación de survey registrada.</p>
+<p>Balance tangencial: provee inclinación promedio y dirección de los ángulos.</p>
+<p>Radio de curvatura: el pozo se asume en una curva suave entre dos estaciones de survey (este modelo da dos cortes).</p>
+<p>Mínima curvatura: arco esférico entre dos puntos consecutivos de survey (curva más suave que une dos puntos, aproximación más cercana).</p>
+</body>
+</body>
+</body>
+</html>
+</body>
+</body>
+</body>
+</html>
